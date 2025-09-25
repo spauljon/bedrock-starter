@@ -37,8 +37,10 @@
     "vitest": "^3.2.4"
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.63.1",
     "@aws-sdk/client-bedrock": "^3.896.0",
     "@aws-sdk/types": "^3.893.0",
-    "@aws/bedrock-token-generator": "^1.1.0"
+    "@aws/bedrock-token-generator": "^1.1.0",
+    "dotenv": "^17.2.2"
   }
 }
