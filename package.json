@@ -38,6 +38,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-bedrock": "^3.896.0",
-    "@aws-sdk/types": "^3.893.0"
+    "@aws-sdk/types": "^3.893.0",
+    "@aws/bedrock-token-generator": "^1.1.0"
   }
 }
